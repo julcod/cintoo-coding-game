@@ -1,0 +1,28 @@
+10 10
+##########
+#    T   #
+#        #
+#        #
+#        #
+#@       #
+#        #
+#        #
+#    T  $#
+##########
+SOUTH
+SOUTH
+SOUTH
+EAST
+EAST
+EAST
+EAST
+EAST
+EAST
+EAST
+SOUTH
+SOUTH
+SOUTH
+SOUTH
+SOUTH
+SOUTH
+SOUTH

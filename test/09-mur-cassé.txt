@@ -1,0 +1,34 @@
+10 10
+##########
+#        #
+#  @     #
+#  B     #
+#  S   W #
+# XXX    #
+#  B   N #
+# XXXXXXX#
+#       $#
+##########
+SOUTH
+SOUTH
+SOUTH
+SOUTH
+EAST
+EAST
+EAST
+EAST
+NORTH
+NORTH
+WEST
+WEST
+WEST
+WEST
+SOUTH
+SOUTH
+SOUTH
+SOUTH
+EAST
+EAST
+EAST
+EAST
+EAST

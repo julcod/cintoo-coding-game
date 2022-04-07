@@ -1,0 +1,17 @@
+8 8
+########
+#      #
+# @    #
+# XX   #
+#  XX  #
+#   XX #
+#     $#
+########
+EAST
+EAST
+EAST
+EAST
+SOUTH
+SOUTH
+SOUTH
+SOUTH

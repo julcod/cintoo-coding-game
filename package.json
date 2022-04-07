@@ -1,0 +1,19 @@
+{
+  "name": "test-cintoo",
+  "scripts": {
+    "integration-test": "mocha ./integration.test.js",
+    "unit-test" : "mocha ./unit.test.js",
+    "test" : "npm run unit-test && npm run integration-test",
+    "lint": "eslint src/result.ts",
+    "tsc": "./node_modules/.bin/tsc -t es6 src/result.ts",
+    "build" : "npm run lint && npm run tsc && npm run test"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.18.0",
+    "@typescript-eslint/parser": "^5.18.0",
+    "eslint": "^8.12.0",
+    "mocha": "^9.2.2",
+    "request": "^2.88.2",
+    "typescript": "^4.6.3"
+  }
+}

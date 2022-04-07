@@ -1,0 +1,38 @@
+10 10
+##########
+#    I   #
+#        #
+#       $#
+#       @#
+#        #
+#       I#
+#        #
+#        #
+##########
+SOUTH
+SOUTH
+SOUTH
+SOUTH
+WEST
+WEST
+WEST
+WEST
+WEST
+WEST
+WEST
+NORTH
+NORTH
+NORTH
+NORTH
+NORTH
+NORTH
+NORTH
+EAST
+EAST
+EAST
+EAST
+EAST
+EAST
+EAST
+SOUTH
+SOUTH
